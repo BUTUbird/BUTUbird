@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
-![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)  
+![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)
 ![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
