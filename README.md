@@ -1,16 +1,20 @@
 ### Hi there 👋
 
 
-
-### 👾 技术栈 | Tech Stack
-![Java](https://img.shields.io/badge/Java-11-orange)
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=BUTUbird&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
+</a>
 
 -🤔My blog 👉 https://www.cnblogs.com/BUTU  
 -🔭My E-mail 👉 1781894948@qq.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BUTUbird&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BUTUbird&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)
+![](https://img.shields.io/badge/-Android-green?style=flat-square&logo=Android&logoColor=fff)  
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BUTUbird&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BUTUbird/BUTUbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
