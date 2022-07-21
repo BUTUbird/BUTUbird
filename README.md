@@ -6,7 +6,7 @@
 </a>
 
 -🤔My blog 👉 https://www.cnblogs.com/BUTU  
--🔭My E-mail 👉 1781894948@qq.com
+-🔭My E-mail 👉 butubird@gmail.com
 
 ![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
 ![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
